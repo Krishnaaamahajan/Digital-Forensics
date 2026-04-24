@@ -4,8 +4,8 @@
 To analyze an Android logical/physical image to retrieve user data such as call logs, SMS messages, and application-specific data (WhatsApp/Telegram). This helps in reconstructing mobile-based communications and location history.
 
 ## Tools Used
-* **Andriller:** For parsing Android backup files and communications.
-* **Autopsy (Android Analyzer):** For automated parsing of the filesystem.
+* **Andriller:** For parsing Android backup files and communications.[Download](https://sourceforge.net/projects/andriller/)
+* **Autopsy (Android Analyzer):** For automated parsing of the filesystem.[Download](https://www.autopsy.com/download/)
 * **DB Browser for SQLite:** To manually inspect message databases.
 
 ## Methodology
