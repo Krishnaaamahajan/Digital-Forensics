@@ -4,8 +4,8 @@
 To extract and analyze hidden metadata from digital images and documents using specialized forensic tools. This data can provide critical evidence regarding the author, geographic location (GPS), and the specific hardware used to create the file.
 
 ## Tools Used
-* **ExifTool:** For comprehensive metadata extraction from images.
-* **PDFinfo:** For analyzing PDF document properties and versioning.
+* **ExifTool:** For comprehensive metadata extraction from images.[DOWNLOAD](https://exiftool.org/)
+* **PDFinfo:** For analyzing PDF document properties and versioning.[Download](https://poppler.freedesktop.org/)
 
 ## Methodology
 1. **Selection:** Identified a suspicious image (`evidence.jpg`) and a document (`report.pdf`) from the disk image.
