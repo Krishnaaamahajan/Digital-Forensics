@@ -4,8 +4,8 @@
 To capture the volatile memory (RAM) of a live system and analyze it to identify running processes, network connections, and potential malicious activity that would vanish upon a system reboot.
 
 ## Tools Used
-* **DumpIt:** For memory acquisition (RAM capture).
-* **Volatility 3:** For advanced memory forensics and artifact extraction.
+* **DumpIt:** For memory acquisition (RAM capture).[Download](https://www.comae.com/dumpit/)
+* **Volatility 3:** For advanced memory forensics and artifact extraction.[Download](https://www.volatilityfoundation.org/releases)
 
 ## Methodology
 1. **Acquisition:** Executed `DumpIt.exe` on a target Windows 10 machine to generate a `.raw` memory dump.
