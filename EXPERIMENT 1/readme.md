@@ -4,7 +4,7 @@
 To acquire a bit-for-bit physical image of a storage device and verify its integrity using SHA-256 hashing to ensure the evidence remains unaltered.
 
 ## Tools Used
-* **FTK Imager v4.5**
+* **FTK Imager v4.5**[Download](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-3)
 * **HashCalc** (for secondary verification)
 
 ## Process Summary
