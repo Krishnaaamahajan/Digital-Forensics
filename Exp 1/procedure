@@ -1,0 +1,13 @@
+Experiment 1: Disk Imaging & Hash Verification
+
+Procedure:
+
+Launch FTK Imager / Guymager tool.
+Select the source drive (USB/HDD).
+Choose “Create Disk Image” option.
+Select image format (E01/raw).
+Specify destination path for saving image.
+Enable hash calculation (SHA-256).
+Start imaging process.
+After completion, note hash of original and image.
+Compare both hash values to verify integrity.
