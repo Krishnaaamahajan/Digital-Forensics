@@ -4,7 +4,7 @@
 To explore the recovery of deleted content from a forensic disk image and analyze file system metadata (MAC times, permissions, and ownership) to reconstruct user activity.
 
 ## Tools Used
-* **Autopsy Forensic Browser**
+* **Autopsy Forensic Browser**[Download Autopsy](https://www.autopsy.com/download/)
 * **The Sleuth Kit (TSK)**
 
 ## Methodology
